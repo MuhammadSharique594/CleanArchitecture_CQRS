@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rF7QwU7DZXHzpBKPPC8kK+et3jEQTj1qoDRrfRXJXt2LGmX/1iAAyoDa2D0/vSdcICPGkXqiRlCuyqgry3GWWA==",
+  "success": true,
+  "projectFilePath": "D:\\PersonalProjects\\MicroservicesCleanArchitectureDocker\\MicroservicePracticeWithDocker\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muhammad.sharique\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\muhammad.sharique\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\muhammad.sharique\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
