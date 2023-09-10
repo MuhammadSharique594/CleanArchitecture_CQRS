@@ -2258,19 +2258,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\muhammad.sharique\\.nuget\\packages\\": {}
+    "C:\\Users\\Muhammad Sharique\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PersonalProjects\\MicroservicesCleanArchitectureDocker\\MicroservicePracticeWithDocker\\LoginAPI\\Login.API.csproj",
+      "projectUniqueName": "E:\\Git Hub\\CleanArchitecture_CQRS\\Microservice\\Login\\LoginAPI\\Login.API.csproj",
       "projectName": "Login.API",
-      "projectPath": "D:\\PersonalProjects\\MicroservicesCleanArchitectureDocker\\MicroservicePracticeWithDocker\\LoginAPI\\Login.API.csproj",
-      "packagesPath": "C:\\Users\\muhammad.sharique\\.nuget\\packages\\",
-      "outputPath": "D:\\PersonalProjects\\MicroservicesCleanArchitectureDocker\\MicroservicePracticeWithDocker\\LoginAPI\\obj\\",
+      "projectPath": "E:\\Git Hub\\CleanArchitecture_CQRS\\Microservice\\Login\\LoginAPI\\Login.API.csproj",
+      "packagesPath": "C:\\Users\\Muhammad Sharique\\.nuget\\packages\\",
+      "outputPath": "E:\\Git Hub\\CleanArchitecture_CQRS\\Microservice\\Login\\LoginAPI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\muhammad.sharique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Muhammad Sharique\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2284,11 +2288,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\PersonalProjects\\MicroservicesCleanArchitectureDocker\\MicroservicePracticeWithDocker\\Login.Application\\Login.Application.csproj": {
-              "projectPath": "D:\\PersonalProjects\\MicroservicesCleanArchitectureDocker\\MicroservicePracticeWithDocker\\Login.Application\\Login.Application.csproj"
+            "E:\\Git Hub\\CleanArchitecture_CQRS\\Microservice\\Login\\Login.Application\\Login.Application.csproj": {
+              "projectPath": "E:\\Git Hub\\CleanArchitecture_CQRS\\Microservice\\Login\\Login.Application\\Login.Application.csproj"
             },
-            "D:\\PersonalProjects\\MicroservicesCleanArchitectureDocker\\MicroservicePracticeWithDocker\\Login.Infrastructure\\Login.Infrastructure.csproj": {
-              "projectPath": "D:\\PersonalProjects\\MicroservicesCleanArchitectureDocker\\MicroservicePracticeWithDocker\\Login.Infrastructure\\Login.Infrastructure.csproj"
+            "E:\\Git Hub\\CleanArchitecture_CQRS\\Microservice\\Login\\Login.Infrastructure\\Login.Infrastructure.csproj": {
+              "projectPath": "E:\\Git Hub\\CleanArchitecture_CQRS\\Microservice\\Login\\Login.Infrastructure\\Login.Infrastructure.csproj"
             }
           }
         }
@@ -2338,7 +2342,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   },

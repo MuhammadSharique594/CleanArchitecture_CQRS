@@ -15,3 +15,20 @@ D:\PersonalProjects\MicroservicesCleanArchitectureDocker\MicroservicePracticeWit
 D:\PersonalProjects\MicroservicesCleanArchitectureDocker\MicroservicePracticeWithDocker\Login.Infrastructure\obj\Debug\net6.0\ref\Login.Infrastructure.dll
 D:\PersonalProjects\MicroservicesCleanArchitectureDocker\MicroservicePracticeWithDocker\Login.Infrastructure\bin\Debug\net6.0\Login.Domain.dll
 D:\PersonalProjects\MicroservicesCleanArchitectureDocker\MicroservicePracticeWithDocker\Login.Infrastructure\bin\Debug\net6.0\Login.Domain.pdb
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\bin\Debug\net6.0\Login.Infrastructure.deps.json
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\bin\Debug\net6.0\Login.Infrastructure.dll
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\bin\Debug\net6.0\Login.Infrastructure.pdb
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\bin\Debug\net6.0\Login.Application.dll
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\bin\Debug\net6.0\Login.Domain.dll
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\bin\Debug\net6.0\Login.Application.pdb
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\bin\Debug\net6.0\Login.Domain.pdb
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\Login.Infrastructure.csproj.AssemblyReference.cache
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\Login.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\Login.Infrastructure.AssemblyInfoInputs.cache
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\Login.Infrastructure.AssemblyInfo.cs
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\Login.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\Login.Infrastructure.csproj.CopyComplete
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\Login.Infrastructure.dll
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\refint\Login.Infrastructure.dll
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\Login.Infrastructure.pdb
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\ref\Login.Infrastructure.dll

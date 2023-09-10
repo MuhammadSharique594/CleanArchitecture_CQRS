@@ -13,3 +13,18 @@ D:\PersonalProjects\MicroservicesCleanArchitectureDocker\MicroservicePracticeWit
 D:\PersonalProjects\MicroservicesCleanArchitectureDocker\MicroservicePracticeWithDocker\Login.Application\bin\Debug\net6.0\Login.Domain.dll
 D:\PersonalProjects\MicroservicesCleanArchitectureDocker\MicroservicePracticeWithDocker\Login.Application\bin\Debug\net6.0\Login.Domain.pdb
 D:\PersonalProjects\MicroservicesCleanArchitectureDocker\MicroservicePracticeWithDocker\Login.Application\obj\Debug\net6.0\Login.Application.csproj.CopyComplete
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\bin\Debug\net6.0\Login.Application.deps.json
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\bin\Debug\net6.0\Login.Application.dll
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\bin\Debug\net6.0\Login.Application.pdb
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\bin\Debug\net6.0\Login.Domain.dll
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\bin\Debug\net6.0\Login.Domain.pdb
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Debug\net6.0\Login.Application.csproj.AssemblyReference.cache
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Debug\net6.0\Login.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Debug\net6.0\Login.Application.AssemblyInfoInputs.cache
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Debug\net6.0\Login.Application.AssemblyInfo.cs
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Debug\net6.0\Login.Application.csproj.CoreCompileInputs.cache
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Debug\net6.0\Login.Application.csproj.CopyComplete
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Debug\net6.0\Login.Application.dll
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Debug\net6.0\refint\Login.Application.dll
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Debug\net6.0\Login.Application.pdb
+E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Debug\net6.0\ref\Login.Application.dll

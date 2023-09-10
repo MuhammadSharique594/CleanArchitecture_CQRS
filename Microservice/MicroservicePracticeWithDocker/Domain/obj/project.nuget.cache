@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xqsONiRNoeidApybBWGCg6KiS/6TIzcnS2U4hmTysog8KT9IE6s2IyUPSij0ftd8q/UUy58lrfZIZIiogPEBfg==",
+  "dgSpecHash": "2/tWzvkYfZAG3nCEkfWwz2em+nENErnLAoPai08MUPMPDQx2YEn0Z16ZfO+3AbdrT4utwe4nZiDYbBOF5CtVlg==",
   "success": true,
-  "projectFilePath": "D:\\PersonalProjects\\MicroservicesCleanArchitectureDocker\\MicroservicePracticeWithDocker\\Domain\\Domain.csproj",
+  "projectFilePath": "E:\\Git Hub\\CleanArchitecture_CQRS\\Microservice\\MicroservicePracticeWithDocker\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -135,19 +135,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\muhammad.sharique\\.nuget\\packages\\": {}
+    "C:\\Users\\Muhammad Sharique\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PersonalProjects\\MicroservicesCleanArchitectureDocker\\MicroservicePracticeWithDocker\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "E:\\Git Hub\\CleanArchitecture_CQRS\\Microservice\\MicroservicePracticeWithDocker\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\PersonalProjects\\MicroservicesCleanArchitectureDocker\\MicroservicePracticeWithDocker\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\muhammad.sharique\\.nuget\\packages\\",
-      "outputPath": "D:\\PersonalProjects\\MicroservicesCleanArchitectureDocker\\MicroservicePracticeWithDocker\\Infrastructure\\obj\\",
+      "projectPath": "E:\\Git Hub\\CleanArchitecture_CQRS\\Microservice\\MicroservicePracticeWithDocker\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Muhammad Sharique\\.nuget\\packages\\",
+      "outputPath": "E:\\Git Hub\\CleanArchitecture_CQRS\\Microservice\\MicroservicePracticeWithDocker\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\muhammad.sharique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Muhammad Sharique\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -161,8 +165,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\PersonalProjects\\MicroservicesCleanArchitectureDocker\\MicroservicePracticeWithDocker\\Application\\Application.csproj": {
-              "projectPath": "D:\\PersonalProjects\\MicroservicesCleanArchitectureDocker\\MicroservicePracticeWithDocker\\Application\\Application.csproj"
+            "E:\\Git Hub\\CleanArchitecture_CQRS\\Microservice\\MicroservicePracticeWithDocker\\Application\\Application.csproj": {
+              "projectPath": "E:\\Git Hub\\CleanArchitecture_CQRS\\Microservice\\MicroservicePracticeWithDocker\\Application\\Application.csproj"
             }
           }
         }
@@ -191,7 +195,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "oAtGmgSj/uBhUk175PQQta7QgclqGXevkyeQ4ctfP91Cw0BYwFd42rBB1vK0qkO3LoeoyQuWcsw2m16Ubk5DKA==",
+  "success": true,
+  "projectFilePath": "E:\\Git Hub\\CleanArchitecture_CQRS\\Microservice\\MicroservicePracticeWithDocker\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammad Sharique\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Muhammad Sharique\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Muhammad Sharique\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Sharique\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Sharique\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Muhammad Sharique\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Muhammad Sharique\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Muhammad Sharique\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Muhammad Sharique\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
