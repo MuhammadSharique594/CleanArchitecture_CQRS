@@ -32,3 +32,20 @@ E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\De
 E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\refint\Login.Infrastructure.dll
 E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\Login.Infrastructure.pdb
 E:\Git Hub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\ref\Login.Infrastructure.dll
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\bin\Debug\net6.0\Login.Infrastructure.deps.json
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\bin\Debug\net6.0\Login.Infrastructure.dll
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\bin\Debug\net6.0\Login.Infrastructure.pdb
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\bin\Debug\net6.0\Login.Application.dll
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\bin\Debug\net6.0\Login.Domain.dll
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\bin\Debug\net6.0\Login.Application.pdb
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\bin\Debug\net6.0\Login.Domain.pdb
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\Login.Infrastructure.csproj.AssemblyReference.cache
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\Login.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\Login.Infrastructure.AssemblyInfoInputs.cache
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\Login.Infrastructure.AssemblyInfo.cs
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\Login.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\Login.Infrastructure.csproj.CopyComplete
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\Login.Infrastructure.dll
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\refint\Login.Infrastructure.dll
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\Login.Infrastructure.pdb
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Infrastructure\obj\Debug\net6.0\ref\Login.Infrastructure.dll

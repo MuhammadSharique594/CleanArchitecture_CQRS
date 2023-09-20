@@ -8,6 +8,6 @@ namespace Login.Application.Abstract.Interface.Services
     {
         Task<ErrorOr<LoginResponseWithToken>> Login(LoginQuery loginQuery);
 
-        Task<ErrorOr<TokenResponse>> GenerateToken(string email, string firstName, string lastName);
+        Task<ErrorOr<string>> GenerateToken(string email, string firstName, string lastName);
     }
 }

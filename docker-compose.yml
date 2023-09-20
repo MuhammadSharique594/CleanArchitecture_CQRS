@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  login.api:
+    image: ${DOCKER_REGISTRY-}loginapi
+    build:
+      context: .
+      dockerfile: Microservice\Login\Dockerfile

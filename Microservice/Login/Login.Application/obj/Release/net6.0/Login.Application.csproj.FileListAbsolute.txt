@@ -1,0 +1,15 @@
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\bin\Release\net6.0\Login.Application.deps.json
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\bin\Release\net6.0\Login.Application.dll
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\bin\Release\net6.0\Login.Application.pdb
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\bin\Release\net6.0\Login.Domain.dll
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\bin\Release\net6.0\Login.Domain.pdb
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Release\net6.0\Login.Application.csproj.AssemblyReference.cache
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Release\net6.0\Login.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Release\net6.0\Login.Application.AssemblyInfoInputs.cache
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Release\net6.0\Login.Application.AssemblyInfo.cs
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Release\net6.0\Login.Application.csproj.CoreCompileInputs.cache
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Release\net6.0\Login.Application.csproj.CopyComplete
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Release\net6.0\Login.Application.dll
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Release\net6.0\refint\Login.Application.dll
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Release\net6.0\Login.Application.pdb
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Application\obj\Release\net6.0\ref\Login.Application.dll

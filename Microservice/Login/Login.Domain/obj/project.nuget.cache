@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kgmknBTrnxGLJlvvTb7yYHNne+uK0WQU+KsAAjhYIaXLnRQ9MQYlUwv4m3lhvIir9uaS5cQUrShn2gI38wo51w==",
+  "dgSpecHash": "Fj3bMSm5xGb8rR3RMt4v3FgQpNcDdTI9LZ8omLZd81e5+VdArOmIIJ8f8TqbAJ2i7CKOnxYf/Ior44gC+tYZoQ==",
   "success": true,
-  "projectFilePath": "E:\\Git Hub\\CleanArchitecture_CQRS\\Microservice\\Login\\Login.Domain\\Login.Domain.csproj",
+  "projectFilePath": "D:\\PersonalProjects\\GitHub\\CleanArchitecture_CQRS\\Microservice\\Login\\Login.Domain\\Login.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

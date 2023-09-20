@@ -1,0 +1,12 @@
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Domain\bin\Release\net6.0\Login.Domain.deps.json
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Domain\bin\Release\net6.0\Login.Domain.dll
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Domain\bin\Release\net6.0\Login.Domain.pdb
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Domain\obj\Release\net6.0\Login.Domain.csproj.AssemblyReference.cache
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Domain\obj\Release\net6.0\Login.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Domain\obj\Release\net6.0\Login.Domain.AssemblyInfoInputs.cache
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Domain\obj\Release\net6.0\Login.Domain.AssemblyInfo.cs
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Domain\obj\Release\net6.0\Login.Domain.csproj.CoreCompileInputs.cache
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Domain\obj\Release\net6.0\Login.Domain.dll
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Domain\obj\Release\net6.0\refint\Login.Domain.dll
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Domain\obj\Release\net6.0\Login.Domain.pdb
+D:\PersonalProjects\GitHub\CleanArchitecture_CQRS\Microservice\Login\Login.Domain\obj\Release\net6.0\ref\Login.Domain.dll

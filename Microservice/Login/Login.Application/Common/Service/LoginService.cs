@@ -18,13 +18,13 @@ namespace Login.Application.Common.Service
             _mediatR = mediatR;
         }
 
-        public async Task<ErrorOr<TokenResponse>> GenerateToken(string email, string firstName, string lastName)
+        public async Task<ErrorOr<string>> GenerateToken(string email, string firstName, string lastName)
         {
             await Task.CompletedTask;
             try
             {
                 var token = _jwtTokenGenerator.GenerateJwtToken(email, firstName, lastName);
-                return new TokenResponse(token);
+                return token;
 
             }
             catch(Exception ex)

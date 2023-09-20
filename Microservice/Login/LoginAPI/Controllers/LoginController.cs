@@ -42,7 +42,12 @@ namespace Login.API.Controllers
         {
             var result = await _loginService.GenerateToken(email, firstName, lastName);
 
-            return ResponseResult(result);
+            if (result.IsError)
+            {
+                return ResponseResult(result);
+            }
+
+            return Ok(new { Token = result.Value });
         }
     }
 }
