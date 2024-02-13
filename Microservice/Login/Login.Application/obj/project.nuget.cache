@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "N46s18fgZHCwRYiik0iVCuwuAT+wKNoiQQ8TS1HPNyfwKZ+bdg/KNsMHVvqq65zqW8FLcILlJr1pE1WhvxpQCw==",
+  "dgSpecHash": "L4HQTb4jb69YeGD7jeVFjgSEd+ykI2E3acWTalLdJtPJ5kwzvfyCNzSp1LTPfSLnC1ztJqhB6VnprOagsDauYQ==",
   "success": true,
   "projectFilePath": "D:\\PersonalProjects\\GitHub\\CleanArchitecture_CQRS\\Microservice\\Login\\Login.Application\\Login.Application.csproj",
   "expectedPackageFiles": [

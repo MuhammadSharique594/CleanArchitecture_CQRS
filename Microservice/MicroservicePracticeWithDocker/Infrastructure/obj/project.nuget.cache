@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FgvzQ5PZg8mkY/HssjLfzaQCpwR8w25SrkI1JAZ7UR83h8x29mx7ZVxo2eSERm1WuM40G2l7zMA4q5Ln4DUlWg==",
+  "dgSpecHash": "/j6KQ+nR6coXLETpFeqVqAt8RhFvFWGq3L+DIlxO8S1iwnurmRNc3fKMEzjXaH9Yc3+FsX/6Izik/pfogB2hGw==",
   "success": true,
   "projectFilePath": "D:\\PersonalProjects\\GitHub\\CleanArchitecture_CQRS\\Microservice\\MicroservicePracticeWithDocker\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [

@@ -9,19 +9,27 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
         },
         "compile": {
-          "lib/net6.0/MediatR.dll": {}
+          "lib/net6.0/MediatR.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/MediatR.dll": {}
+          "lib/net6.0/MediatR.dll": {
+            "related": ".xml"
+          }
         }
       },
       "MediatR.Contracts/2.0.1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/MediatR.Contracts.dll": {}
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/MediatR.Contracts.dll": {}
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.22": {
@@ -30,10 +38,14 @@
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.10.0"
         },
         "compile": {
-          "lib/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {}
+          "lib/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {}
+          "lib/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
+            "related": ".xml"
+          }
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -62,10 +74,14 @@
       "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -77,19 +93,27 @@
           "Microsoft.IdentityModel.Tokens": "6.10.0"
         },
         "compile": {
-          "lib/netstandard2.0/Microsoft.IdentityModel.JsonWebTokens.dll": {}
+          "lib/netstandard2.0/Microsoft.IdentityModel.JsonWebTokens.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.IdentityModel.JsonWebTokens.dll": {}
+          "lib/netstandard2.0/Microsoft.IdentityModel.JsonWebTokens.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.IdentityModel.Logging/6.10.0": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Microsoft.IdentityModel.Logging.dll": {}
+          "lib/netstandard2.0/Microsoft.IdentityModel.Logging.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.IdentityModel.Logging.dll": {}
+          "lib/netstandard2.0/Microsoft.IdentityModel.Logging.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.IdentityModel.Protocols/6.10.0": {
@@ -99,10 +123,14 @@
           "Microsoft.IdentityModel.Tokens": "6.10.0"
         },
         "compile": {
-          "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.dll": {}
+          "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.dll": {}
+          "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.IdentityModel.Protocols.OpenIdConnect/6.10.0": {
@@ -112,10 +140,14 @@
           "System.IdentityModel.Tokens.Jwt": "6.10.0"
         },
         "compile": {
-          "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll": {}
+          "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll": {}
+          "lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.IdentityModel.Tokens/6.10.0": {
@@ -126,19 +158,27 @@
           "System.Security.Cryptography.Cng": "4.5.0"
         },
         "compile": {
-          "lib/netstandard2.0/Microsoft.IdentityModel.Tokens.dll": {}
+          "lib/netstandard2.0/Microsoft.IdentityModel.Tokens.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.IdentityModel.Tokens.dll": {}
+          "lib/netstandard2.0/Microsoft.IdentityModel.Tokens.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.OpenApi/1.2.3": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Swashbuckle.AspNetCore/6.2.3": {
@@ -159,10 +199,14 @@
           "Microsoft.OpenApi": "1.2.3"
         },
         "compile": {
-          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -174,19 +218,27 @@
           "Swashbuckle.AspNetCore.Swagger": "6.2.3"
         },
         "compile": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Swashbuckle.AspNetCore.SwaggerUI/6.2.3": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -199,16 +251,22 @@
           "Microsoft.IdentityModel.Tokens": "6.10.0"
         },
         "compile": {
-          "lib/netstandard2.0/System.IdentityModel.Tokens.Jwt.dll": {}
+          "lib/netstandard2.0/System.IdentityModel.Tokens.Jwt.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/System.IdentityModel.Tokens.Jwt.dll": {}
+          "lib/netstandard2.0/System.IdentityModel.Tokens.Jwt.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Security.Cryptography.Cng/4.5.0": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp2.1/System.Security.Cryptography.Cng.dll": {}
+          "ref/netcoreapp2.1/System.Security.Cryptography.Cng.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netcoreapp2.1/System.Security.Cryptography.Cng.dll": {}
@@ -785,7 +843,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -797,7 +856,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

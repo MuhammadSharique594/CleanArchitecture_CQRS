@@ -5,10 +5,14 @@
       "ErrorOr/1.2.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/ErrorOr.dll": {}
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/ErrorOr.dll": {}
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Mapster/7.3.0": {
@@ -41,19 +45,27 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
         },
         "compile": {
-          "lib/net6.0/MediatR.dll": {}
+          "lib/net6.0/MediatR.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/MediatR.dll": {}
+          "lib/net6.0/MediatR.dll": {
+            "related": ".xml"
+          }
         }
       },
       "MediatR.Contracts/2.0.1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/MediatR.Contracts.dll": {}
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/MediatR.Contracts.dll": {}
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "related": ".xml"
+          }
         }
       },
       "MediatR.Extensions.Microsoft.DependencyInjection/11.1.0": {
@@ -90,7 +102,9 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.0/Microsoft.CSharp.dll": {}
+          "ref/netstandard1.0/Microsoft.CSharp.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/Microsoft.CSharp.dll": {}
@@ -99,10 +113,14 @@
       "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -134,7 +152,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/_._": {
+            "related": ".xml"
+          }
         }
       },
       "System.Diagnostics.Debug/4.3.0": {
@@ -145,7 +165,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/_._": {
+            "related": ".xml"
+          }
         }
       },
       "System.Dynamic.Runtime/4.3.0": {
@@ -167,7 +189,9 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Dynamic.Runtime.dll": {}
+          "ref/netstandard1.3/System.Dynamic.Runtime.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Dynamic.Runtime.dll": {}
@@ -181,7 +205,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/_._": {
+            "related": ".xml"
+          }
         }
       },
       "System.IO/4.3.0": {
@@ -194,7 +220,9 @@
           "System.Threading.Tasks": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.5/System.IO.dll": {}
+          "ref/netstandard1.5/System.IO.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Linq/4.3.0": {
@@ -207,7 +235,9 @@
           "System.Runtime.Extensions": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.6/_._": {}
+          "ref/netstandard1.6/_._": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.6/System.Linq.dll": {}
@@ -235,7 +265,9 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.6/System.Linq.Expressions.dll": {}
+          "ref/netstandard1.6/System.Linq.Expressions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.6/System.Linq.Expressions.dll": {}
@@ -251,7 +283,9 @@
           "System.Threading": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.ObjectModel.dll": {}
+          "ref/netstandard1.3/System.ObjectModel.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.ObjectModel.dll": {}
@@ -267,7 +301,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.5/System.Reflection.dll": {}
+          "ref/netstandard1.5/System.Reflection.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Reflection.Emit/4.3.0": {
@@ -280,7 +316,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.1/System.Reflection.Emit.dll": {}
+          "ref/netstandard1.1/System.Reflection.Emit.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Reflection.Emit.dll": {}
@@ -294,7 +332,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.0/System.Reflection.Emit.ILGeneration.dll": {}
+          "ref/netstandard1.0/System.Reflection.Emit.ILGeneration.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Reflection.Emit.ILGeneration.dll": {}
@@ -309,7 +349,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.0/_._": {}
+          "ref/netstandard1.0/_._": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Reflection.Emit.Lightweight.dll": {}
@@ -324,7 +366,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.0/_._": {}
+          "ref/netstandard1.0/_._": {
+            "related": ".xml"
+          }
         }
       },
       "System.Reflection.Primitives/4.3.0": {
@@ -335,7 +379,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.0/System.Reflection.Primitives.dll": {}
+          "ref/netstandard1.0/System.Reflection.Primitives.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Reflection.TypeExtensions/4.3.0": {
@@ -345,7 +391,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.5/_._": {}
+          "ref/netstandard1.5/_._": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.5/System.Reflection.TypeExtensions.dll": {}
@@ -361,7 +409,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.0/_._": {}
+          "ref/netstandard1.0/_._": {
+            "related": ".xml"
+          }
         }
       },
       "System.Runtime/4.3.0": {
@@ -371,7 +421,9 @@
           "Microsoft.NETCore.Targets": "1.1.0"
         },
         "compile": {
-          "ref/netstandard1.5/System.Runtime.dll": {}
+          "ref/netstandard1.5/System.Runtime.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Runtime.Extensions/4.3.0": {
@@ -382,7 +434,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.5/_._": {}
+          "ref/netstandard1.5/_._": {
+            "related": ".xml"
+          }
         }
       },
       "System.Runtime.Handles/4.3.0": {
@@ -393,7 +447,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/_._": {
+            "related": ".xml"
+          }
         }
       },
       "System.Runtime.InteropServices/4.3.0": {
@@ -418,7 +474,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Text.Encoding.dll": {}
+          "ref/netstandard1.3/System.Text.Encoding.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Threading/4.3.0": {
@@ -428,7 +486,9 @@
           "System.Threading.Tasks": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/_._": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Threading.dll": {}
@@ -442,7 +502,9 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Threading.Tasks.dll": {}
+          "ref/netstandard1.3/System.Threading.Tasks.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Login.Domain/1.0.0": {
@@ -2271,7 +2333,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -2280,7 +2343,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   },

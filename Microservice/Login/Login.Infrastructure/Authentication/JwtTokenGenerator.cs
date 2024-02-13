@@ -29,7 +29,9 @@ namespace Login.Infrastructure.Authentication
                 new Claim(JwtRegisteredClaimNames.Sub, email),
                 new Claim(JwtRegisteredClaimNames.GivenName, firstName),
                 new Claim(JwtRegisteredClaimNames.FamilyName, lastName),
-                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
+                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
+                new Claim(ClaimTypes.Role, "Admin"),
+                new Claim(ClaimTypes.Role, "User")
             };
 
             var securityToken = new JwtSecurityToken(
